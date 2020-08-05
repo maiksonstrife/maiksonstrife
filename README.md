@@ -1,5 +1,5 @@
 <p align="center">
-<img src="![](img/GitCard_roundededges)" alt="G'Morning! I'm Maikson" />
+<img src="https://github.com/maiksonstrife/maiksonstrife/blob/master/img/GitCard_roundededges.png?raw=true" alt="G'Morning! I'm Maikson" />
 </p>
 
 <p align="center">
