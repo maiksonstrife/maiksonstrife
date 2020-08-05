@@ -5,8 +5,10 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/maiksonmendes/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
-  <a href="https://maiksonstrife.github.io/maiksonportfolioGitPage/">
+<a href="https://maiksonstrife.github.io/maiksonportfolioGitPage/">
 <img src="https://img.shields.io/badge/-portfolio-orange" alt="Portfolio"/></a> 
+<a href="https://wa.me/5511948400609">
+<img src="https://https://img.shields.io/badge/-Whatsapp-brightgreen" alt="Whatsapp"/></a> 
 </p>
 
 <h2>Nice to meet you!</h2>
