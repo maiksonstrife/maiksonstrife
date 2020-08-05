@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center">
+<img src="![](img/GitCard_roundededges)" alt="G'Morning! I'm Maikson" />
+</p>
 
-<!--
-**maiksonstrife/maiksonstrife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://www.linkedin.com/in/maiksonmendes/">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+</p>
 
-Here are some ideas to get you started:
+Muito prazer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nice to meet you! I'm a software developer, originally from Brazil, São Paulo. I love writing code for android and web based platforms and games as well, my main objective today is to work as a developer. I've did a lot of projects on the current enterprise I work on, here on my GitHub you can sneak peak some of these projects.
+
+In my free time, I've been working on a [metroidvania engine on top of Unity3D](https://github.com/maiksonstrife/FoxTale) as a on-going study project. 
+Besides that, I love playing video games (Splatoon 2, nintendo in general, a lot of passion by oldschool games).
+
+
+
