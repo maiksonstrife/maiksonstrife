@@ -13,7 +13,7 @@
 
 <h2>Nice to meet you!</h2>
 
- I'm a software developer, from Brazil, São Paulo. I love writing code for android, web based platforms and games as well, my main objective today is to work as a developer formally. I've did a lot of projects on the current enterprise I work on, here on my GitHub you can sneak peak some of these projects.
+ I'm a software developer, from Brazil, my main objective today is to work as a Game Developer formally. I've did a lot of projects on the current enterprise I work on, here on my GitHub you can sneak peak some of these projects.
 
 In my free time, I've been working on a [metroidvania engine on top of Unity3D](https://github.com/maiksonstrife/FoxTale) as a on-going study project. 
 
