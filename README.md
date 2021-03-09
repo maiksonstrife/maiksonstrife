@@ -13,14 +13,9 @@
 
 <h2>Nice to meet you!</h2>
 
- I'm a software developer, from Brazil, my main objective today is to work as a Game Developer formally. I've did a lot of projects on the current enterprise I work on, here on my GitHub you can sneak peak some of these projects.
-
-In my free time, I've been working on a [metroidvania engine on top of Unity3D](https://github.com/maiksonstrife/FoxTale) as a on-going study project. 
-
+ I'm a software developer, from Brazil, my main objective today is to work formally as Software Engineer. I've did a lot of projects on the current enterprise I work on, here on my GitHub you can sneak peak some of these projects.
 
 <h2>Muito prazer!</h2>
 
 
  Sou desenvolvedor de softwares, resido em São Paulo. Amo escrever códigos para apps Android, Plataformas Web e também jogos, meu principal objetivo hoje é trabalhar formalmente como desenvolvedor. Tenho feito diversos projetos na empresa no qual trabalho atualmente, aqui no meu GitHub você poderá espiar alguns desses projetos.
-
-No meu tempo livre, venho trabalhando em uma [engine metroidvania na Unity3D](https://github.com/maiksonstrife/FoxTale) como um projeto de estudo em andamento.
